@@ -3,6 +3,12 @@
 
 ## Topic: Global Terrorism Trends Reveal Alarming Patterns and Shifts Worldwide
 
+![Homepage View](./Project%202%20Global%20Terrorism%20Dashboard/Global terror 1.PNG)
+![Time Series View](./Project%202%20Global%20Terrorism%20Dashboard/global terror 2.PNG)
+![Victims](./Project%202%20Global%20Terrorism%20Dashboard/global terror 3.PNG)
+![Perpetrators](./Project%202%20Global%20Terrorism%20Dashboard/Global terror 4.PNG)
+
+
 Terrorism has evolved into a significant global issue, and its impact is being felt closer to home than ever before. Understanding the trends, identifying the most affected regions and people, and evaluating the devastating losses are crucial for developing better prevention and response strategies.
 
 This project aims at provides insights into global terrorism trends from **1970 to 2017**, highlighting critical information about terrorist activities, the methods used, and their regional and global impact.
@@ -56,5 +62,4 @@ The dashboard was built using **Power BI** and is divided across four key sectio
 Mental health accessments is very important for the people and the armed forces. Tests on this should be done periodically.
 
 ---
-
-This dashboard sheds light on the shifting landscape of terrorism, emphasizing the need for robust, coordinated responses and deeper understanding to effectively combat the evolving threat of global terrorism.
+You can download the dashboard file from [Google Drive](https://drive.google.com/file/d/1kIBxlMCF-tBrKaB4Uv0pNwKQ3iAI6u-a/view?usp=sharing)
