@@ -3,9 +3,12 @@
 
 ## Topic: Global Terrorism Trends Reveal Alarming Patterns and Shifts Worldwide
 
-![Homepage View](./Project%202%20Global%20Terrorism%20Dashboard/Global terror 1.PNG)
+![Homepage View](Github portfolio projects/Project 2 Global Terrorism Dashboard/Global terror 1.PNG?raw=true)
+
 ![Time Series View](./Project%202%20Global%20Terrorism%20Dashboard/global terror 2.PNG)
+
 ![Victims](./Project%202%20Global%20Terrorism%20Dashboard/global terror 3.PNG)
+
 ![Perpetrators](./Project%202%20Global%20Terrorism%20Dashboard/Global terror 4.PNG)
 
 
@@ -62,4 +65,5 @@ The dashboard was built using **Power BI** and is divided across four key sectio
 Mental health accessments is very important for the people and the armed forces. Tests on this should be done periodically.
 
 ---
+![Video preview of the dashboard and its functionalities]()
 You can download the dashboard file from [Google Drive](https://drive.google.com/file/d/1kIBxlMCF-tBrKaB4Uv0pNwKQ3iAI6u-a/view?usp=sharing)
