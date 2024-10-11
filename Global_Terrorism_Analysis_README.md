@@ -5,11 +5,11 @@
 
 Terrorism has evolved into a significant global issue, and its impact is being felt closer to home than ever before. Understanding the trends, identifying the most affected regions and people, and evaluating the devastating losses are crucial for developing better prevention and response strategies.
 
-This dashboard provides insights into global terrorism trends from **1970 to 2017**, highlighting critical information about terrorist activities, the methods used, and their regional and global impact.
+This project aims at provides insights into global terrorism trends from **1970 to 2017**, highlighting critical information about terrorist activities, the methods used, and their regional and global impact.
 
 ## Project Objective
 The aim of this project is to offer a comprehensive overview of global terrorism, uncovering key trends and shifts across time. The analysis allows users to:
-- Understand the geographical and temporal spread of terrorism.
+- Understand the geographical spread of terrorism.
 - Identify the most frequent targets and attack methods.
 - Assess the human and economic toll of terrorism.
 - Offer recommendations for counter-terrorism efforts.
@@ -23,18 +23,18 @@ The dashboard was built using **Power BI** and is divided across four key sectio
 ## Key Insights
 
 ### 1. Attack Methods and Frequency
-- **Most Common Attack Method:** **Bombing and explosion** accounted for **50.8%** of all terrorist attacks globally, making it the most frequently used method.
+- **Most Common Attack Method:** **Bombing and explosion** accounted for **50.8%** of all recorded terrorist attacks globally, making it the most frequently used method.
 - **Successful Attacks:** Nearly **89%** of all attacks were classified as successful.
 
 ### 2. Time-Series Analysis
-- The number of attacks fluctuated over the decades, but the period between **2011 and 2017** saw the most dramatic increase, accounting for **45.13%** of all terrorist incidents.
+- The number of attacks varied over the decades, but the period between **2011 and 2017** saw the most dramatic increase, accounting for **45.13%** of all terrorist incidents.
   
 ### 3. Regional Impact
-- The **Middle East and North Africa (MENA)** region was the most affected, accounting for **27.8%** of the global terrorist attacks.
+- The **Middle East and North Africa** region was the most affected, accounting for **27.78%** of the global terrorist attacks.
 - **Iraq** was the single most affected country, suffering **13.56%** of all global attacks.
 
 ### 4. Victim Impact
-- **Private citizens and property** were the primary targets, accounting for **23.59%** of all attacks, followed by the military, police, and government.
+- **Private citizens and property** were the primary targets, accounting for **23.95%** of all attacks, followed by the military, police, and government.
 - The **economic and property damage** caused by these attacks has been significant, with **51.48%** of attacks resulting in recorded property damage.
 
 ### 5. Decadal Shifts
@@ -53,6 +53,7 @@ The dashboard was built using **Power BI** and is divided across four key sectio
 
 2. **Community Policing and Mental Health Training:**
    Governments should invest in training local communities on how to recognize and respond to potential threats. Community policing efforts, coupled with mental health training, can empower citizens to take defensive actions and reduce vulnerability to radicalization.
+Mental health accessments is very important for the people and the armed forces. Tests on this should be done periodically.
 
 ---
 
