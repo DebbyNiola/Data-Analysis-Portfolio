@@ -11,7 +11,7 @@
 
 ![Perpetrators PageView](Github_portfolio_projects/Project2_Global_Terrorism_Dashboard/Global_terror_4.PNG)
 
-
+- - -
 Terrorism has evolved into a significant global issue, and its impact is being felt closer to home than ever before. Understanding the trends, identifying the most affected regions and people, and evaluating the devastating losses are crucial for developing better prevention and response strategies.
 
 This project aims at provides insights into global terrorism trends from **1970 to 2017**, highlighting critical information about terrorist activities, the methods used, and their regional and global impact.
