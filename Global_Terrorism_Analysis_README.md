@@ -5,11 +5,11 @@
 
 ![Homepage View](Github_portfolio_projects/Project2_Global_Terrorism_Dashboard/Global_terror_1.PNG)
 
-![Time Series View](Github_portfolio_projects/Project2_Global_Terrorism_Dashboard/Global_terror_2.PNG)
+![Time Series PageView](Github_portfolio_projects/Project2_Global_Terrorism_Dashboard/Global_terror_2.PNG)
 
-![Victims](Github_portfolio_projects/Project2_Global_Terrorism_Dashboard/Global_terror_3.PNG)
+![Victims PageView](Github_portfolio_projects/Project2_Global_Terrorism_Dashboard/Global_terror_3.PNG)
 
-![Perpetrators](Github_portfolio_projects/Project2_Global_Terrorism_Dashboard/Global_terror_4.PNG)
+![Perpetrators PageView](Github_portfolio_projects/Project2_Global_Terrorism_Dashboard/Global_terror_4.PNG)
 
 
 Terrorism has evolved into a significant global issue, and its impact is being felt closer to home than ever before. Understanding the trends, identifying the most affected regions and people, and evaluating the devastating losses are crucial for developing better prevention and response strategies.
