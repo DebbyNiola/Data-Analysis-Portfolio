@@ -1,15 +1,15 @@
 
 # Global Terrorism Analysis Dashboard
 
-## Topic: Global Terrorism Trends Reveal Alarming Patterns and Shifts Worldwide
+## Topic: Global Terrorism Trends Patterns and Shifts Worldwide
 
-![Homepage View](Github portfolio projects/Project 2 Global Terrorism Dashboard/Global terror 1.PNG?raw=true)
+![Homepage View](Github_portfolio_projects/Project2_Global_Terrorism_Dashboard/Global_terror_1.PNG)
 
-![Time Series View](./Project%202%20Global%20Terrorism%20Dashboard/global terror 2.PNG)
+![Time Series View](Github_portfolio_projects/Project2_Global_Terrorism_Dashboard/Global_terror_2.PNG)
 
-![Victims](./Project%202%20Global%20Terrorism%20Dashboard/global terror 3.PNG)
+![Victims](Github_portfolio_projects/Project2_Global_Terrorism_Dashboard/Global_terror_3.PNG)
 
-![Perpetrators](./Project%202%20Global%20Terrorism%20Dashboard/Global terror 4.PNG)
+![Perpetrators](Github_portfolio_projects/Project2_Global_Terrorism_Dashboard/Global_terror_4.PNG)
 
 
 Terrorism has evolved into a significant global issue, and its impact is being felt closer to home than ever before. Understanding the trends, identifying the most affected regions and people, and evaluating the devastating losses are crucial for developing better prevention and response strategies.
@@ -65,6 +65,6 @@ The dashboard was built using **Power BI** and is divided across four key sectio
 Mental health accessments is very important for the people and the armed forces. Tests on this should be done periodically.
 
 ---
-![Video preview of the dashboard and its functionalities]()
+![Video preview of the dashboard and its functionalities](Github_portfolio_projects/Project2_Global_Terrorism_Dashboard/Global_teror_Portfolio.mp4)
 
 You can download the dashboard file from [Google Drive](https://drive.google.com/file/d/1kIBxlMCF-tBrKaB4Uv0pNwKQ3iAI6u-a/view?usp=sharing)
