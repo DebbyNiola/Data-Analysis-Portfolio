@@ -1,7 +1,8 @@
 
 # Diversity & Inclusion Metrics Dashboard
 
-This project analyzes diversity and inclusion metrics for a company from 2020 to 2021. The dashboard tracks key performance indicators (KPIs) such as gender balance, promotions, turnover, performance ratings, nationality, and age distribution.
+This project analyzes diversity and inclusion metrics for a company from 2020 to 2021. The dashboard tracks key performance indicators (KPIs) such as gender balance, promotions, turnover, performance ratings, nationality, and age distribution. \
+This was inspired by the pwc project task on the forage website.
 
 ## Key Findings
 
