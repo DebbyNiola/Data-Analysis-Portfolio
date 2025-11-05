@@ -3,13 +3,13 @@
 
 ## Topic: Global Terrorism Trends Patterns and Shifts Worldwide
 
-![Homepage View](Github_portfolio_projects/Project2_Global_Terrorism_Dashboard/Global_terror_1.PNG)
+![Homepage View](Global_terror_1.PNG)
 
-![Time Series PageView](Github_portfolio_projects/Project2_Global_Terrorism_Dashboard/Global_terror_2.PNG)
+![Time Series PageView](Global_terror_2.PNG)
 
-![Victims PageView](Github_portfolio_projects/Project2_Global_Terrorism_Dashboard/Global_terror_3.PNG)
+![Victims PageView](Global_terror_3.PNG)
 
-![Perpetrators PageView](Github_portfolio_projects/Project2_Global_Terrorism_Dashboard/Global_terror_4.PNG)
+![Perpetrators PageView](Global_terror_4.PNG)
 
 - - -
 Terrorism has evolved into a significant global issue, and its impact is being felt closer to home than ever before. Understanding the trends, identifying the most affected regions and people, and evaluating the devastating losses are crucial for developing better prevention and response strategies.
@@ -65,6 +65,6 @@ The dashboard was built using **Power BI** and is divided across four key sectio
 Mental health accessments is very important for the people and the armed forces. Tests on this should be done periodically.
 
 ---
-![Video preview of the dashboard and its functionalities](Github_portfolio_projects/Project2_Global_Terrorism_Dashboard/Global_teror_Portfolio.mp4)
+![Video preview of the dashboard and its functionalities](Global_teror_Portfolio.mp4)
 
 You can download the dashboard file from [Google Drive](https://drive.google.com/file/d/1kIBxlMCF-tBrKaB4Uv0pNwKQ3iAI6u-a/view?usp=sharing)
