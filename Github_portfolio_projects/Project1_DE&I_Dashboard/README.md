@@ -4,6 +4,12 @@
 This project analyzes diversity and inclusion metrics for a company from 2020 to 2021. The dashboard tracks key performance indicators (KPIs) such as gender balance, promotions, turnover, performance ratings, nationality, and age distribution. \
 This was inspired by the pwc project task on the forage website.
 
+![Dashboard Preview](Upgrade_Dashboard_1.JPG)
+
+
+![Dashboard Preview](Upgrade_Dashboard_2.PNG)
+
+
 ## Key Findings
 
 ### 1. Gender Balance at Executive Level:
