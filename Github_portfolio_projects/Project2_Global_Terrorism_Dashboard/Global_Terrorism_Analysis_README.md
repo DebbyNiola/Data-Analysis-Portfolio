@@ -67,4 +67,4 @@ Mental health accessments is very important for the people and the armed forces.
 ---
 ![Video preview of the dashboard and its functionalities](Global_teror_Portfolio.mp4)
 
-You can download the dashboard file from [Google Drive]([w?usp=sharing](https://drive.google.com/file/d/1dt328UKq5B5-N21l4llRBzLWlplX4wB7/view?usp=sharing))
+You can download the dashboard file from [Google Drive](https://drive.google.com/file/d/1dt328UKq5B5-N21l4llRBzLWlplX4wB7/view?usp=sharing)
